@@ -1,3 +1,7 @@
+
+ISOT LAB Version for use in Malware and Botnet Detection Scenarios
+==================================================================
+
 Android SMS Relay
 =================
 
@@ -17,7 +21,7 @@ This is still pretty early stuff, so any feedback or bug reports much appreciate
 INSTALL
 =======
 
-You can build this yourself if you'd like, you'll need version 3.* of actionbar-sherlock though.  Until we hit the market, I'd recommend using the pre-build APK at: 
+You can build this yourself if you'd like, you'll need version 3.* of actionbar-sherlock though.  Until we hit the market, I'd recommend using the pre-build APK at:
     https://github.com/downloads/nyaruka/android-sms-relay/android-sms-relay.apk
 
 .. image:: https://chart.googleapis.com/chart?cht=qr&chs=300x300&chl=https://github.com/downloads/nyaruka/android-sms-relay/android-sms-relay.apk
